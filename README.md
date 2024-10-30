@@ -1,1 +1,1 @@
-# 42cursus-so_long
+So_long is a simple 2D game project focused on understanding graphics rendering and event handling. The objective is to create a small game where a player navigates through a map, collects items, and reaches an exit, all while handling basic movement, collisions, and window rendering using a graphics library. This project reinforces skills in game development fundamentals, memory management, and event-driven programming.
